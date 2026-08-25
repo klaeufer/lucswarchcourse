@@ -42,8 +42,8 @@ Please refer to the academic standards and regulations applicable to your progra
 
 ### Required Text
 
-  Fundamentals of Software Architecture, 2nd Edition
-  By Mark Richards, Neal Ford
+  Fundamentals of Software Architecture, 2nd Edition  
+  By Mark Richards, Neal Ford  
   Available free on O'Reilly Safari [here](https://learning.oreilly.com/library/view/fundamentals-of-software/9781098175504/)
 
 ### Additional Materials

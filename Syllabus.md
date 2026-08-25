@@ -1,24 +1,11 @@
 # Course Syllabus for COMP 373/473
 
-## Course Information
-
 - Class time and location: see [LOCUS](https://locus.luc.edu/) and [Sakai](https://sakai.luc.edu/)
-- This is a on-campus, face-to-face class involving lectures, group activities, etc.
 - Estimated workload: 9 to 12 hours per week including class time.
-- To earn points for group activities or other in-class activities, you are required to participate during class time (in person or remotely) or make up for the work outside of class.
-- If you have a scheduled absence, please ask a classmate to record the session for you and/or share their notes. In addition, some prerecorded videos are available through Panopto or YouTube.
-- The university’s statement about the observation of religious holidays is available [here](https://www.luc.edu/academicaffairs/homenews/honoringstudentreligiousobservances.shtml).
-
-
-## Instructor Information
-
 - Instructor: [Konstantin Läufer](https://laufer.cs.luc.edu) | [GitHub](http://github.com/klaeufer) | [Google Scholar](https://scholar.google.com/citations?user=Rs0f_nMAAAAJ&hl=en) | [Rate My Prof](https://www.ratemyprofessors.com/professor/287274)
 - TA: see Sakai site for this section (contact info and office hours TBA)
 - Communication: *All official communication regarding this class takes place in the classroom (verbal), Sakai (announcements, discussions), and MS Teams (please use direct group chat and include our TA); my MS Teams user ID is **klaufer@luc.edu**. (To help me prioritize your class-related communication, please DO NOT use email!)*
-- Office hours:
-  - right after class, no appointment required
-  - for scheduled office hours, please see [Sakai](https://sakai.luc.edu/) and [Calendly](https://calendly.com/laufer)
-
+- Office hours: please see [Sakai](https://sakai.luc.edu/) and [Calendly](https://calendly.com/laufer)
 
 ## Learning
 
@@ -130,7 +117,7 @@ Please refer to the academic standards and regulations applicable to your progra
 ## Attendance
 
 - This is a on-campus, face-to-face class involving lectures, group activities, etc.
-- If you have a scheduled absence, I will make an effort to record all lectures for later viewing through Sakai/Panopto. In addition, some prerecorded videos are available through Panopto.
+- If you have a scheduled absence, please ask a classmate to record the session for you and/or share their notes. In addition, some prerecorded videos may be available through Panopto or YouTube.
 - To earn points for group activities or other in-class activities, you are required to participate during class time (in person or remotely) or make up for the work outside of class.
 - The university's statement about the observation of religious holidays is available [here](https://www.luc.edu/academicaffairs/homenews/honoringstudentreligiousobservances.shtml).
 

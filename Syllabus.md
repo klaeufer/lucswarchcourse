@@ -81,12 +81,12 @@ Please refer to the academic standards and regulations applicable to your progra
 - Leading research paper review sessions (5 points)
   - Focus on deeper analyses of assigned readings, presenting alternative design patterns, or exploring related topics not covered in detail during lectures.
   - Assessment: preparation, facilitation skills, and ability to engage peers.
-- Acting as Team Leads on Group Projects (5 points)
-  - Responsible for coordinating the team’s work, ensuring adherence to design principles, and managing version control and task assignments.
-  - Assessment: based on leadership, organization, 00communication, and team feedback.
 - Analysis of Architectural Evolution or Research Progress during Project (10 points)
   - Report (2-3 pages) detailing design decisions and trade-offs made during the project; evaluate of architectural and design pattern usage, considering scalability, maintainability, and potential extensions.
   - Assessment: based on technical soundness and readability.
+- Advanced Group Project Requirements (5 points)
+  - Additional graduate-level requirements to be discussed on a per-team basis.
+  - Assessment: based on relevance, complexity, and degree of completion.
 
 ### Grading scheme (undergraduates)
 

@@ -14,7 +14,7 @@
 
 - Instructor: [Konstantin Läufer](https://laufer.cs.luc.edu) | [GitHub](http://github.com/klaeufer) | [Google Scholar](https://scholar.google.com/citations?user=Rs0f_nMAAAAJ&hl=en) | [Rate My Prof](https://www.ratemyprofessors.com/professor/287274)
 - TA: see Sakai site for this section (contact info and office hours TBA)
-- Communication: *All official communication regarding this class takes place in the classroom (verbal), Sakai (announcements), and MS Teams (please use direct group chat and include our TA); my MS Teams user ID is **klaufer@luc.edu**. (To help me prioritize your class-related communication, please DO NOT use email!)*
+- Communication: *All official communication regarding this class takes place in the classroom (verbal), Sakai (announcements, discussions), and MS Teams (please use direct group chat and include our TA); my MS Teams user ID is **klaufer@luc.edu**. (To help me prioritize your class-related communication, please DO NOT use email!)*
 - Office hours:
   - right after class, no appointment required
   - for scheduled office hours, please see [Sakai](https://sakai.luc.edu/) and [Calendly](https://calendly.com/laufer)
@@ -43,15 +43,21 @@ Please refer to the academic standards and regulations applicable to your progra
 - [Undergraduate](https://catalog.luc.edu/academic-standards-regulations/undergraduate/)
 - [Graduate](https://catalog.luc.edu/academic-standards-regulations/graduate-professional/)
 
-## Required Materials
+## Course Materials
 
-- Course text: [Domain-Driven Design Reference](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
-- Additional texts available free on O'Reilly Safari:
+### Required Text
+
+  Fundamentals of Software Architecture, 2nd Edition
+  By Mark Richards, Neal Ford
+  Available free on O'Reilly Safari [here](https://learning.oreilly.com/library/view/fundamentals-of-software/9781098175504/)
+
+### Additional Materials
+
   - https://learning.oreilly.com/library/view/software-architecture-in/9780136885979
-  - https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447 / https://learning.oreilly.com/library/view/fundamentals-of-software/9781098175504/
   - https://learning.oreilly.com/library/view/software-architecture-patterns/9781098134280/
   - https://learning.oreilly.com/library/view/software-architecture-for/9780128093382/
   - https://learning.oreilly.com/library/view/cloud-application-architecture/9781098116897/
+  - [Domain Driven Design Reference](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
 
 ## Evaluation and Grading (tentative)
 

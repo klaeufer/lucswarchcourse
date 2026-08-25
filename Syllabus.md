@@ -1,14 +1,5 @@
 # Course Syllabus for COMP 373/473
 
-This is the official course syllabus for the most recent sections of this course.
-
-- Course number: *COMP 373/473*
-- New/working course title: *Software Architecture*
-- Previous/official course title: *Advanced Object-Oriented Programming*
-- Official course descriptions: [COMP 373](https://catalog.luc.edu/course-search/?details&srcdb=2026&code=COMP%20373) | [COMP 473](https://catalog.luc.edu/course-search/?details&srcdb=2026&code=COMP%20473)
-- Prerequisites: [COMP 313 (undergraduate)](https://catalog.luc.edu/course-search/?details&srcdb=2026&code=COMP%20313) or [COMP 400C (graduate)](https://catalog.luc.edu/course-search/?details&srcdb=2026&code=COMP%20400C)
-
-
 ## Course Information
 
 - Class time and location: see [LOCUS](https://locus.luc.edu/) and [Sakai](https://sakai.luc.edu/)

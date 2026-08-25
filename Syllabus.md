@@ -1,11 +1,11 @@
 # Course Syllabus for COMP 373/473
 
 - Class time and location: see [LOCUS](https://locus.luc.edu/) and [Sakai](https://sakai.luc.edu/)
-- Estimated workload: 9 to 12 hours per week including class time.
+- Office hours: please see [Sakai](https://sakai.luc.edu/) and [Calendly](https://calendly.com/laufer)
 - Instructor: [Konstantin Läufer](https://laufer.cs.luc.edu) | [GitHub](http://github.com/klaeufer) | [Google Scholar](https://scholar.google.com/citations?user=Rs0f_nMAAAAJ&hl=en) | [Rate My Prof](https://www.ratemyprofessors.com/professor/287274)
 - TA: see Sakai site for this section (contact info and office hours TBA)
+- Estimated workload: 9 to 12 hours per week including class time.
 - Communication: *All official communication regarding this class takes place in the classroom (verbal), Sakai (announcements, discussions), and MS Teams (please use direct group chat and include our TA); my MS Teams user ID is **klaufer@luc.edu**. (To help me prioritize your class-related communication, please DO NOT use email!)*
-- Office hours: please see [Sakai](https://sakai.luc.edu/) and [Calendly](https://calendly.com/laufer)
 
 ## Learning
 

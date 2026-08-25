@@ -9,18 +9,26 @@
 
 ## Learning
 
-- *Outcomes (all students):* Proficiency in the use of object-oriented languages, frameworks, and patterns; advanced understanding of key language mechanisms such as delegation, inheritance, polymorphism, and reflection; familiarity with object-oriented modeling and development tools and test-driven development
+- *Outcomes (undergraduate students):*
+  - Ability to identify, describe, and apply common software architecture styles (e.g., layered, microservices, event-driven, service-based) and to select an appropriate style given a set of requirements.
+  - Proficiency in recognizing and implementing common design patterns (creational, structural, behavioral) in object-oriented languages and frameworks.
+  - Understanding of key language mechanisms that support architectural design, such as delegation, inheritance, polymorphism, and reflection.
+  - Familiarity with object-oriented modeling, dependency management, and test-driven development practices.
+  - Ability to identify and reason about core architectural/nonfunctional characteristics ("-ilities" such as scalability, maintainability, and performance) and how they inform design trade-offs.
+  - Ability to work effectively as part of a small team to design, implement, and present a software system that applies these architectural concepts.
 - *Additional outcomes (graduate students):*
   - Advanced software architecture skills by critically analyzing, discussing, and applying design patterns and architectural principles in complex, real-world scenarios, based on a deeper understanding of design trade-offs.
   - Ability to lead software development teams through the full project lifecycle, effectively guiding the design process, managing collaborative efforts, and ensuring the architectural integrity of the final solution.
 - *Learning activities*: Lecture, readings and discussion, research presentation, small group projects
 - *Tentative timeline:*
-  - overview and motivation (1 week)
-  - business and software engineering contexts (1 week)
-  - design patterns: creational, structural, behavioral (3 weeks)
-  - design principles (2 weeks)
-  - dependency management (2 weeks)
-  - advanced topics (4 weeks)
+  - introduction: what is software architecture, why it matters, and the role of the architect (1 week)
+  - architectural thinking, stakeholders, requirements, and architectural characteristics/"-ilities" (1 week)
+  - modularity, coupling, cohesion, and dependency management (2 weeks)
+  - foundational design patterns and language mechanisms supporting architecture (delegation, inheritance, polymorphism, reflection) (2 weeks)
+  - architecture styles I: layered, modular monolith, and pipeline architectures (2 weeks)
+  - architecture styles II: microservices and service-based architectures (2 weeks)
+  - architecture styles III: event-driven architecture and other advanced/hybrid styles (2 weeks)
+  - architectural decisions, trade-off analysis, and fitness functions (1 week)
   - project presentations (2 weeks)
 
 ## Information about Academic Integrity

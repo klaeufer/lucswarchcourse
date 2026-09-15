@@ -64,13 +64,12 @@ Please refer to the academic standards and regulations applicable to your progra
   - On MS Teams
 - Research paper review (10 points)
   - 2 papers, 5 points each
-- Ramp-up project (20 points) - Project 1 in Sakai
-- Main team project (44 points)
-  - Team formed by deadline: 4 points - TODO instructor
-  - One-page project proposal: 10 points - Project 2a
-  - Project presentation: 10 points - Project 2b
-  - Project code and doc repository created/maintained in GitHub: 10 points
-  - Final report and other deliverables: 10 points - Project 2c
+- [Team project 1](https://github.com/lucswarch-f26/chipulse) (34 points)
+- Team project 2 (30 points)
+  - One-page project proposal: 5 points - Project 2a
+  - Project presentation: 7 points - Project 2b
+  - Project code and doc repository created/maintained in GitHub: 9 points
+  - Final report and other deliverables: 9 points - Project 2c
 - Quizzes (21 points, 7 each)
   - Week 5
   - Week 10

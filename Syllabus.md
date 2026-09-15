@@ -63,7 +63,7 @@ Please refer to the academic standards and regulations applicable to your progra
   - In class
   - On MS Teams
 - Research paper review (10 points)
-  - 2 papers, 5 points each
+  - 2 papers per team, 5 points each
 - [Team project 1](https://github.com/lucswarch-f26/chipulse) (34 points)
 - Team project 2 (30 points)
   - One-page project proposal: 5 points - Project 2a

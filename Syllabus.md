@@ -164,4 +164,4 @@ Official course announcements, policy changes, and gradebook data will be distri
 
 ## Disclaimer
 
-This syllabus is subject to change. Any changes will be announced in class and/or posted on Sakai.
+This syllabus is subject to change. Any changes will be announced in class and/or posted on Sakai and/or Teams.
